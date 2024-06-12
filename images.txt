@@ -1,5 +1,7 @@
 selenium/hub
 selenium/node-chrome:125.0-chromedriver-125.0
+selenium/node-chrome:121.0-chromedriver-121.0
+selenium/node-chrome:118.0-chromedriver-118.0
 mysql:8.3.0
 redis:7.4-rc1
 centos:centos7.9.2009
