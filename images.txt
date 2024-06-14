@@ -1,1 +1,6 @@
-selenium/hub:4.9
+selenium/hub:3
+selenium/hub:4.0
+selenium/hub:4.4
+selenium/hub:4.6
+selenium/hub:4.7.0
+selenium/node-chrome:118.0-chromedriver-118.0
