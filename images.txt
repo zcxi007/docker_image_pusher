@@ -1,6 +1,5 @@
-selenium/hub:3
-selenium/hub:4.0
-selenium/hub:4.4
-selenium/hub:4.6
-selenium/hub:4.7.0
-selenium/node-chrome:118.0-chromedriver-118.0
+gitlab/gitlab-ce:17.1.0-ce.0
+jenkins/jenkins:2.463-jdk17
+selenium/hub:4.21
+selenium/node-chrome:125.0-chromedriver-125.0
+
