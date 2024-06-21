@@ -1,5 +1,2 @@
-gitlab/gitlab-ce:17.1.0-ce.0
-jenkins/jenkins:2.463-jdk17
-selenium/hub:4.21
-selenium/node-chrome:125.0-chromedriver-125.0
+nginx:stable-alpine3.19-slim
 
