@@ -1,3 +1,2 @@
-elestio/lobe-chat:v1.4.3
-
+ollama/ollama
 
