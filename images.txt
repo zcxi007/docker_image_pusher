@@ -1,2 +1,3 @@
-ollama/ollama
-
+selenium/hub:4.15
+selenium/node-chrome:125.0
+selenium/node-chrome:118.0
