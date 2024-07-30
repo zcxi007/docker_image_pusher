@@ -3,5 +3,7 @@ ubuntu:24.10
 ubuntu:22.04
 redis:7.4.0-alpine3.20
 rabbitmq:4.0-rc-management
+openjdk:23-ea-17-jdk
+openjdk:23-ea-17-jdk-slim
 
 
