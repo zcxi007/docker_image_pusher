@@ -1,5 +1,4 @@
-redis:latest
-redis:7.4.0-alpine3.20
+ubuntu:24.04
 redis:7.4.0
 redis:7.4
 redis:7.4-rc2
