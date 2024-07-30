@@ -1,3 +1,2 @@
-selenium/standalone-chrome:4.23
-selenium/standalone-chrome:125.0
+selenium/node-chrome:112.0
 
