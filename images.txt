@@ -1,2 +1,2 @@
-selenium/node-chrome:112.0
+jenkins:2.60.3
 
