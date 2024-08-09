@@ -1,3 +1,4 @@
-selenium/standalone-chrome:125.0
+selenium/standalone-chrome:125.0-chromedriver-125.0
+
 
 
