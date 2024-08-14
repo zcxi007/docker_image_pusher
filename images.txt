@@ -1,4 +1,4 @@
-selenium/standalone-chrome:125.0-chromedriver-125.0
+redis:7.4.0
 
 
 
