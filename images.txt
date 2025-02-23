@@ -1,6 +1,10 @@
-mintplexlabs/anythingllm:1.7
-mintplexlabs/anythingllm:1.7.4
-mintplexlabs/anythingllm:latest
+ollama/ollama:0.5.12-rocm
+ollama/ollama:0.5.12
+redis:7.4.2-alpine
+rabbitmq:4.0-management-alpine
+rabbitmq:3.13.7-management
+rabbitmq:3.13.7
+
 
 
 
