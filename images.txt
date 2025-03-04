@@ -1,4 +1,4 @@
-pgvector/pgvector:0.8.0-pg17
+iatebes/oracle_11g:latest
 
 
 
