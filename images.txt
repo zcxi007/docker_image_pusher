@@ -1,4 +1,4 @@
-iatebes/oracle_11g:latest
+vllm/vllm-openai:v0.7.3
 
 
 
