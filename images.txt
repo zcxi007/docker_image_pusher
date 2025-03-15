@@ -1,4 +1,4 @@
-vllm/vllm-openai:v0.7.3
+rocm/vllm-dev:rocm6.3.4_navi3x_ubuntu24.04_py3.12_pytorch_2.4_vllm_0.7.2
 
 
 
