@@ -1,4 +1,5 @@
-rocm/vllm-dev:rocm6.3.4_navi3x_ubuntu24.04_py3.12_pytorch_2.4_vllm_0.7.2
+nvidia/cuda:12.8.1-cudnn-devel-ubuntu22.04
+nvidia/cuda:12.8.1-cudnn-devel-ubuntu24.04
 
 
 
