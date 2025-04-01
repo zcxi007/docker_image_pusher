@@ -1,4 +1,5 @@
-requarks/wiki:2.5.307
+jenkins/jenkins:2.503-jdk21
+jenkins/jenkins:2.503-jdk17
 
 
 
