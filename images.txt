@@ -1,7 +1,5 @@
-mysql:9.2.0
-mysql:8.4.4
-mongo:8.0.6
-mongodb/mongodb-community-server:7.0.17-ubuntu2204
+selenium/hub:4.30
+selenium/node-chrome:134.0-20250323
 
 
 
