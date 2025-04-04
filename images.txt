@@ -1,5 +1,8 @@
-jenkins/jenkins:2.503-jdk21
-jenkins/jenkins:2.503-jdk17
+redis:7.4.2
+redis:8.0-M04
+rabbitmq:4.0.8-management
+rabbitmq:4.0.8
+
 
 
 
