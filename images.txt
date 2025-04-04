@@ -1,7 +1,7 @@
-redis:7.4.2
-redis:8.0-M04
-rabbitmq:4.0.8-management
-rabbitmq:4.0.8
+mysql:9.2.0
+mysql:8.4.4
+mongo:8.0.6
+mongodb/mongodb-community-server:7.0.17-ubuntu2204
 
 
 
