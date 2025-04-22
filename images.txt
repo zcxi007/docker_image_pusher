@@ -1,5 +1,6 @@
-selenium/hub:4.30
-selenium/node-chrome:134.0-20250323
+node:22.14.0
+node:22.14.0-slim
+
 
 
 
