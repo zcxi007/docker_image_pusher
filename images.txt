@@ -1,5 +1,7 @@
-node:22.14.0
-node:22.14.0-slim
+mongodb/mongodb-community-server:7.0.18-ubi9
+mongodb/mongodb-community-server:7.0.19-ubi8
+elasticsearch:8.18.0
+elasticsearch:7.17.28
 
 
 
