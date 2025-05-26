@@ -1,7 +1,5 @@
-mongodb/mongodb-community-server:7.0.18-ubi9
-mongodb/mongodb-community-server:7.0.19-ubi8
-elasticsearch:8.18.0
-elasticsearch:7.17.28
+rabbitmq:4.1.0-management
+
 
 
 
