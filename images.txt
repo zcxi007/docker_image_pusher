@@ -1,4 +1,7 @@
-rabbitmq:4.1.0-management
+infiniflow/ragflow:v0.19.x-slim
+infiniflow/ragflow:v0.19.x
+infiniflow/ragflow:nightly-slim
+infiniflow/ragflow:nightly
 
 
 
