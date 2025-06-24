@@ -1,8 +1,6 @@
-mcp/playwright:latest
-playwright/chromium:playwright-1.53.1
-playwright/chrome:playwright-1.53.1
-playwright/firefox:playwright-1.53.1
-playwright/webkit:playwright-1.53.1
+xwiki:16.10.9
+gitea/gitea:1.24-nightly
+gitea/gitea:1.24-nightly-rootless
 
 
 
